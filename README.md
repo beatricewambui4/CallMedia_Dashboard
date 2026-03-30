@@ -31,4 +31,4 @@ across 181 NYC agencies from February to July.
 - **DAX** — Calculated measures and columns
 
 ## Dashboard Preview
-![Dashboard Preview](reports/Callcentredashboard.pdf)
+![Dashboard Preview](CallMedia_Dashboard/blob/main/Callcentredashboard.pdf)
